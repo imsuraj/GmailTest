@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+
+<!-- /** * @author Suraj * Jun 25, 2020 */ -->
+
+<suite name="Gmail Automation test suite" verbose="3">
+	<!-- 10- Generate test execution report at the end -->
+	<listeners>
+		<listener
+
+			class-name="com.qa.gmail.listeners.ExtentReportListener" />
+	</listeners>
+	<test name="Gmail mail test">
+		<classes>
+			<class name="com.qa.gmail.tests.InboxPageTest" />
+		</classes>
+	</test>
+</suite>

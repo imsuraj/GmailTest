@@ -1,0 +1,7 @@
+/Users/Suraj/JavaProjects/Gmail/src/main/java/com/qa/gmail/base/BaseTest.java
+/Users/Suraj/JavaProjects/Gmail/src/main/java/com/qa/gmail/base/BasePage.java
+/Users/Suraj/JavaProjects/Gmail/src/main/java/com/qa/gmail/util/Constants.java
+/Users/Suraj/JavaProjects/Gmail/src/main/java/com/qa/gmail/pages/InboxPage.java
+/Users/Suraj/JavaProjects/Gmail/src/main/java/com/qa/gmail/listeners/ExtentReportListener.java
+/Users/Suraj/JavaProjects/Gmail/src/main/java/com/qa/gmail/util/ElementUtil.java
+/Users/Suraj/JavaProjects/Gmail/src/main/java/com/qa/gmail/pages/LoginPage.java

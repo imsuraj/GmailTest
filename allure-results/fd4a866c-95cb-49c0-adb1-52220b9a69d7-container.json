@@ -1,0 +1,1 @@
+{"uuid":"fd4a866c-95cb-49c0-adb1-52220b9a69d7","name":"com.qa.gmail.tests.InboxPageTest","children":["0a683b64-7a67-4b63-bacf-d39e969b9542"],"befores":[{"name":"inboxSetup","status":"passed","stage":"finished","description":"","steps":[],"attachments":[],"parameters":[],"start":1593000983349,"stop":1593000984956}],"afters":[],"links":[],"start":1593000979626,"stop":1593001003562}

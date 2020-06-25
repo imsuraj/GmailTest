@@ -1,0 +1,7 @@
+com/qa/gmail/pages/LoginPage.class
+com/qa/gmail/listeners/ExtentReportListener.class
+com/qa/gmail/base/BaseTest.class
+com/qa/gmail/util/Constants.class
+com/qa/gmail/util/ElementUtil.class
+com/qa/gmail/pages/InboxPage.class
+com/qa/gmail/base/BasePage.class

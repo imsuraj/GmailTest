@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Gmail Automation test suite" duration-ms="25579" started-at="2020-06-25T16:03:04Z" finished-at="2020-06-25T16:03:30Z">
+    <groups>
+    </groups>
+    <test name="Gmail mail test" duration-ms="25579" started-at="2020-06-25T16:03:04Z" finished-at="2020-06-25T16:03:30Z">
+      <class name="com.qa.gmail.tests.InboxPageTest">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.qa.gmail.tests.InboxPageTest@51c8530f]" name="setUp" is-config="true" duration-ms="3901" started-at="2020-06-25T16:03:04Z" finished-at="2020-06-25T16:03:08Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="inboxSetup()[pri:0, instance:com.qa.gmail.tests.InboxPageTest@51c8530f]" name="inboxSetup" is-config="true" duration-ms="2189" started-at="2020-06-25T16:03:08Z" finished-at="2020-06-25T16:03:11Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- inboxSetup -->
+        <test-method status="PASS" signature="verifyComposeButtonIsDisplayedTest()[pri:1, instance:com.qa.gmail.tests.InboxPageTest@51c8530f]" name="verifyComposeButtonIsDisplayedTest" duration-ms="8310" started-at="2020-06-25T16:03:11Z" finished-at="2020-06-25T16:03:19Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyComposeButtonIsDisplayedTest -->
+        <test-method status="PASS" signature="verifyGmailTest()[pri:2, instance:com.qa.gmail.tests.InboxPageTest@51c8530f]" name="verifyGmailTest" duration-ms="11052" started-at="2020-06-25T16:03:19Z" depends-on-methods="com.qa.gmail.tests.InboxPageTest.verifyComposeButtonIsDisplayedTest" finished-at="2020-06-25T16:03:30Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyGmailTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.qa.gmail.tests.InboxPageTest@51c8530f]" name="tearDown" is-config="true" duration-ms="111" started-at="2020-06-25T16:03:30Z" finished-at="2020-06-25T16:03:30Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.qa.gmail.tests.InboxPageTest -->
+    </test> <!-- Gmail mail test -->
+  </suite> <!-- Gmail Automation test suite -->
+</testng-results>
