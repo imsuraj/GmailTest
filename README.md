@@ -7,12 +7,19 @@ Dependency
 Java
 Maven
 
-###libraries used
+### Libraries used
+```
 Selenium
 TestNG
 Extent Reports
 
-### Steps to clone execute the tests
+### Note
+```
+Edit config.properties file and enter your Gmail id and password before running the test using command 'mvn clean test'
+
+
+
+### Steps to clone execute the test
 ```
 git clone https://github.com/imsuraj/GmailTest.git
 cd GmailTest
