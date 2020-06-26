@@ -1,4 +1,4 @@
-# GmailTest POM Test automation framework using Selenium with Java, TestNG and Maven-
+# GmailTest POM Test automation framework using Selenium with Java, TestNG and Maven
 
 This is a sample project to login to gmail, send email and verify the email.
 TestNG is used as test framework.
