@@ -14,6 +14,6 @@ Extent Reports
 
 ### Steps to clone execute the tests
 ```
-https://github.com/imsuraj/GmailTest.git
+git clone https://github.com/imsuraj/GmailTest.git
 cd GmailTest
 mvn clean test
