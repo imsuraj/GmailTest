@@ -16,7 +16,7 @@ Extent Reports
 ### Note
 ```
 Edit config.properties file and enter your Gmail id and password before running the test using command 'mvn clean test'
-
+```
 
 
 ### Steps to clone execute the test
